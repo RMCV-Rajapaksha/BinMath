@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/RMCV-Rajapaksha/BinMath/blob/main/images/banner.png" width="50" height="50" alt="BinMath Icon" /> </p> <h1 align="center">BIN-MATH</h1> 
+<p align="center"> </p> <h1 align="center">BIN-MATH</h1> 
 <h3 align="center"> An open-source binary arithmetic library. </h3> 
 <h3 align="center"> BinMath empowers developers to seamlessly convert arithmetic operations into binary and perform complex binary calculations with ease. Enhance your projects with efficient and precise binary computations. </h3> <br/> 
 <p align="center"> <a href="https://github.com/RMCV-Rajapaksha/BinMath"> <img src="https://example.com/images/start.png" width="140" alt="Start for free" /> </a> </p> <br/> 
@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/npm/dm/binmath.svg?style=flat-square" /> </a> 
   <a href="https://twitter.com/binmath" target="_blank"> 
   <img src="https://img.shields.io/twitter/follow/binmath.svg?style=social&label=Follow" /> </a>
-  <a href="https://discord.gg/binmath" target="_blank"> 
-  <img src="https://img.shields.io/discord/123456789.svg?logo=discord&logoColor=white" alt="Chat on Discord"> </a> </p> <br> <hr> <br>
+   </p> <br> <hr> <br>
 
 BinMath is an open-source, production-ready library designed for developers looking to incorporate 
 binary arithmetic into their projects.
