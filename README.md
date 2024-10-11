@@ -10,8 +10,7 @@
  <img src="https://img.shields.io/npm/v/binmath.svg?style=flat-square" />
   </a> <a href="https://www.npmjs.com/package/binmath" target="_blank"> 
   <img src="https://img.shields.io/npm/dm/binmath.svg?style=flat-square" /> </a> 
-  <a href="https://twitter.com/binmath" target="_blank"> 
-  <img src="https://img.shields.io/twitter/follow/binmath.svg?style=social&label=Follow" /> </a>
+  
    </p> <br> <hr> <br>
 
 BinMath is an open-source, production-ready library designed for developers looking to incorporate 
