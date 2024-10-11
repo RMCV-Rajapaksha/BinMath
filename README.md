@@ -25,14 +25,14 @@ console.log(result); // Output: 1101
 
 It does all this:
 
--   [Binary addition](https://www.framer.com/docs/transition/#spring?utm_source=motion-readme-docs)
--   [Binary subtraction](https://www.framer.com/docs/animation/##keyframes?utm_source=motion-readme-docs)
--   [Binary multiplication](https://www.framer.com/docs/layout-animations/?utm_source=motion-readme-docs)
--   [Binary division](https://www.framer.com/docs/layout-animations/#shared-layout-animations?utm_source=motion-readme-docs)
--   [Binary conversion](https://www.framer.com/docs/gestures/?utm_source=motion-readme-docs)
--   [Binary to decimal](https://www.framer.com/docs/scroll-animations?utm_source=motion-readme-docs)
--   [Decimal to binary](https://www.framer.com/docs/component/###svg-line-drawing?utm_source=motion-readme-docs)
--   [Bitwise operations](https://www.framer.com/docs/animate-presence/?utm_source=motion-readme-docs)
+-   [Binary addition]
+-   [Binary subtraction]
+-   [Binary multiplication]
+-   [Binary division]
+-   [Binary conversion]
+-   [Binary to decimal]
+-   [Decimal to binary]
+-   [Bitwise operations]
 
 ...and a whole lot more.
 
