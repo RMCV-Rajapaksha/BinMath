@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" width="50" height="50" alt="Framer Motion Icon" />
+  <img src="https://github.com/RMCV-Rajapaksha/BinMath/blob/main/images/banner.png" width="50" height="50" alt="Framer Motion Icon" />
 </p>
 <h1 align="center">Framer Motion</h1>
 <h3 align="center">
