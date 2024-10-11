@@ -1,7 +1,7 @@
 <p align="center"> </p> <h1 align="center">BIN-MATH</h1> 
 <h3 align="center"> An open-source binary arithmetic library. </h3> 
 <h3 align="center"> BinMath empowers developers to seamlessly convert arithmetic operations into binary and perform complex binary calculations with ease. Enhance your projects with efficient and precise binary computations. </h3> <br/> 
-<p align="center"> <a href="https://github.com/RMCV-Rajapaksha/BinMath"> <img src="https://example.com/images/start.png" width="140" alt="Start for free" /> </a> </p> <br/> 
+<p align="center"></p> <br/> 
 <p align="center"> <a href="https://github.com/RMCV-Rajapaksha/BinMath">
  <img src="https://github.com/RMCV-Rajapaksha/BinMath/blob/main/images/banner.png" width="1000" alt="BinMath Banner" /> 
  </a> </p> <br> 
