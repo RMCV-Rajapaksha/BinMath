@@ -18,8 +18,8 @@ binary arithmetic into their projects.
 
 It looks like this:
 ```jsx
-const result = binMath.addBinary('1010', '0011');
-console.log(result); // Output: 1101
+const binary = require("bin-math");
+console.log(binary.binaryToDecimalIterative({ number: "1010" })); 
 
 ```
 
@@ -49,11 +49,8 @@ npm install bin-math
 Then import the binMath library:
 
 ```jsx
-import binMath from 'bin-math';
-
-const sum = binMath.addBinary('1010', '0011');
-console.log(sum); // Output: 1101
-
+const binary = require("bin-math");
+console.log(binary.binaryToDecimalIterative({ number: "1010" })); 
 ```
 
 ### 📚 Docs
